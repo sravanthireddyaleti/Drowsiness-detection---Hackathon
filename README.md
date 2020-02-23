@@ -14,3 +14,4 @@ Even after the alert if the person is still sleeping then after 10 seconds an sm
 
 
 
+<video src="IMG_6931.mov"  width="320" height="200" controls preload></video>
