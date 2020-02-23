@@ -1,0 +1,16 @@
+# Drowsiness-detection---Hackathon
+The Drowsy Driving Problem
+Drowsy driving is a major problem in the United States. The risk, danger, and often tragic results of drowsy driving are alarming.
+
+According to a survey among nearly 150,000 adults in 19 states and the District of Columbia:
+4% reported that they had fallen asleep while driving at least once in the previous 30 days.
+
+Drowsiness Detection is an application which addresses the issue of Drowsy Driving.
+
+This application records a person behind a wheel and counts the number of seconds he/she has closed his eyes.
+If a person closes his eyes for more than 3 seconds then an alarm goes off.
+Even after the alram if the person is still not awake then after 10 seconds a sms with location is sent to emergency contact.
+
+
+
+
