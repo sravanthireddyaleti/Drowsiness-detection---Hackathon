@@ -11,7 +11,7 @@ This application records a person behind the wheel and counts the number of seco
 If a person closes his eyes for more than 3 seconds then an alarm goes off.
 Even after the alert if the person is still sleeping then after 10 seconds an sms with location is sent to emergency contacts.
 
-
+This project is developed as a part of revolution UC hackathon.
 
 
 <video src="IMG_6931.mov"  width="320" height="200" controls preload></video>
